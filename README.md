@@ -103,10 +103,10 @@ AXI DMA
         │
 ARM Processor
         │
-FFT Analysis
+FFT Analysis'''
 
 
-##        How to rub
+## How to rub
 RF Configuration
 Parameter	Value
 DAC Rate	4915.2 MSPS
