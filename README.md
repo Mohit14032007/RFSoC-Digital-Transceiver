@@ -106,7 +106,7 @@ ARM Processor
 FFT Analysis
 
 
-
+##        How to rub
 RF Configuration
 Parameter	Value
 DAC Rate	4915.2 MSPS
@@ -116,6 +116,7 @@ Baseband Frequency	20 MHz
 Interpolation	×16
 Decimation	×16
 Nyquist Zone	1
+
 How to Run
 Clone Repository
 git clone https://github.com/yourusername/RFSoC-Digital-Transceiver.git
